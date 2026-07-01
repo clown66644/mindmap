@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MindMapApp</string>
+    <string name="title_activity_main">MindMapApp</string>
+    <string name="package_name">com.mindmap.app</string>
+    <string name="custom_url_scheme">com.mindmap.app</string>
+</resources>
